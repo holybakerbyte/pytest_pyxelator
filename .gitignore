@@ -1,3 +1,6 @@
 __pycache__
 .venv
 .pytest_cache
+test_nyoba.py
+allure-report/
+allure-results/
